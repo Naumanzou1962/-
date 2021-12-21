@@ -1,0 +1,41 @@
+.changed img {width: 40px;}
+.changed {
+    border: groove;
+    padding: 10px;
+}
+
+header {
+    background-color:burlywood;
+    margin: 0px;
+    padding: 10px;
+    height: 90px;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.header-logo {
+    float: left;
+}
+
+.header-list li{
+    float: right;
+}
+
+.header-img {
+    width: 50px;
+}
+
+main {
+    clear: left;
+}
+
+li {
+    list-style: none;
+  }
