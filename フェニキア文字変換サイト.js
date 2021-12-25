@@ -6,7 +6,7 @@ const pic = {A:"a.png",B:"b.png",C:"c_g.png",D:"d.png",E:"e.png",F:"f_v_y_u_w.pn
           T:"t.png",U:"f_v_y_u_w.png",V:"f_v_y_u_w.png",W:"f_v_y_u_w.png",X:"x.png",Y:"y.png",Z:"z.png",
             a:"a.png",b:"b.png",c:"c_g.png",d:"d.png",e:"e.png",f:"f_v_y_u_w.png",g:"c_g.png",h:"h.png",
           i:"i.png",j:"j.png",k:"k.png",l:"l.png",m:"m.png",n:"n.png",o:"o.png",p:"p.png",q:"q.png",r:"r.png",s:"s.png",
-          t:"t.png",u:"f_v_y_u_w.png",v:"f_v_y_u_w.png",w:"f_v_y_u_w.png",x:"x.png",y:"y.png",z:"z.png"}
+          t:"t.png",u:"f_v_y_u_w.png",v:"f_v_y_u_w.png",w:"f_v_y_u_w.png",x:"x.png",y:"y.png",z:"z.png"," ":"空白.png"}
 btn.addEventListener("click",()=>{
     var txt = ipt.value;
     var num = txt.length;
